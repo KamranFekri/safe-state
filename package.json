@@ -16,5 +16,9 @@
     "manipulation",
     "unmounted",
     "components"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamranFekri/safe-state"
+  }
 }
