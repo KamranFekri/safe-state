@@ -1,6 +1,6 @@
 {
   "name": "safe-state",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native wrapper for setState to prevent state manipulation on unmounted components.",
   "main": "safe-state.js",
   "dependencies": {},
